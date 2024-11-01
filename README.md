@@ -4,7 +4,7 @@
 ## Project Title: AWS-Hosted OpenVPN Server with Automated Deployment
 
 ### Overview
-This document provides a step-by-step guide for setting up a secure VPN server on AWS EC2 using OpenVPN. It includes automation of the deployment process with Terraform, implementation of security measures, and monitoring of server activity.
+So recently I was exploring and I got to know about OpenVPN and how we can make our own VPN server using it. I came across some challenges but was able to host it on an EC2 instance and automated it using Terraform. So, this document provides a step-by-step guide for setting up a secure VPN server on AWS EC2 using OpenVPN. It includes automation of the deployment process with Terraform, implementation of security measures, and monitoring of server activity.
 
 ### Prerequisites
 - An AWS account with appropriate permissions
